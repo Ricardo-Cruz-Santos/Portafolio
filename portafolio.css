@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    display: block;
+    
+}
+
+.parrafo1 {
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.name {
+    text-align: center;
+    color: magenta;
+    padding: 40vh;
+    font-size: 50px;
+}
+
+.sobre-mi {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.text-my {
+    text-align: justify;
+    padding: 25px;
+    color: gold;
+    font-size: 20px;
+}
+
+.my-work {
+    text-align: center;
+    color: white;
+    padding: 25px;
+    font-size: 40px;
+}
+
+.prox {
+    color: chartreuse;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.school {
+    text-align: center;
+    color: yellow;
+    padding: 30px;
+    font-size: 40px;
+}
+
+.titulo-primaria {
+    text-align: left;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.parr-primaria {
+    text-align: justify;
+    padding: 20px;
+    color: red;
+    font-size: 20px;
+}
+
+.tit-sec {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.parr-sec {
+    padding: 20px;
+    text-align: justify;
+    color: red;
+    font-size: 20px;
+}
+
+.tit-epo {
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+.parr-epo {
+    padding: 20px;
+    text-align: justify;
+    color: #F8F406;
+    font-size: 20px;
+}
+
+.tit-uni {
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+.parr-uni {
+    padding: 20px;
+    text-align: justify;
+    color: #F8F406;
+    font-size: 20px;
+}
+
+.imagen1 {
+    background-image: url("https://images.pexels.com/photos/814499/pexels-photo-814499.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+}
+
+.section2 {
+    background-image: url("https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+}
+
+.section3 {
+    background-image: url("https://images.pexels.com/photos/1619317/pexels-photo-1619317.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+}
+
+.section4 {
+    background-image: url("https://images.pexels.com/photos/3354887/pexels-photo-3354887.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+}
